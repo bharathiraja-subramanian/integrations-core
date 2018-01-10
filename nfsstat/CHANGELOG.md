@@ -5,7 +5,7 @@ Unreleased
 
 ### Changes
 
-* [FIX] makes reports output stats more in realtime. See [#974][].
+* [IMPROVEMENT] makes reports output stats more in realtime. See [#974][].
 
 0.1.0/ 2017-10-10
 ==================
